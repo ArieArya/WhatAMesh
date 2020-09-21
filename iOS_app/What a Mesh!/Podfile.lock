@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.8.2)
+  - MessengerKit (1.0.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MessengerKit (from `https://github.com/steve228uk/MessengerKit.git`)
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  MessengerKit:
+    :git: https://github.com/steve228uk/MessengerKit.git
+
+CHECKOUT OPTIONS:
+  MessengerKit:
+    :commit: e033ac2dc066a7243c86e8e45ffbd95547cf1ad1
+    :git: https://github.com/steve228uk/MessengerKit.git
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  MessengerKit: a495f54dbc70562ddb45ef5f4a9ec8527688a78d
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 017baa9fa04b9a6321184cdad3b554abc265eae7
+
+COCOAPODS: 1.5.2
