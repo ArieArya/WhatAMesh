@@ -3,6 +3,6 @@ This project aims to create an off-grid radio communications device that allows 
 
 It functions through the use of long-range radio (LoRa) modules connected in a meshed-network architecture, and an Arduino to connect the client application with the radio network. The network protocols is in the form of a token-ring network protocol, allowing for a scalable, reliable, and fast communication system.
 
-<img src="/report/app.JPG" width="30%">
-<img src="/report/schematic.JPG" width="30%">
-<img src="/report/cover.JPG" width="30%">
+<img src="/report/app.JPG" width="50%">
+<img src="/report/schematic.JPG" width="50%">
+<img src="/report/cover.JPG" width="50%">
